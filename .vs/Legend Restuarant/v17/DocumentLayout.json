@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bisht\\OneDrive\\Desktop\\Legend Restuarant\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Personal Learning\\Projects\\Legend Restuarant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F501E8-2E01-483F-A3B9-686EF19DEA21}|Restaurants.Domain\\Restaurants.Domain.csproj|c:\\personal learning\\projects\\legend restuarant\\restaurants.domain\\entity\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F501E8-2E01-483F-A3B9-686EF19DEA21}|Restaurants.Domain\\Restaurants.Domain.csproj|solutionrelative:restaurants.domain\\entity\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F501E8-2E01-483F-A3B9-686EF19DEA21}|Restaurants.Domain\\Restaurants.Domain.csproj|c:\\personal learning\\projects\\legend restuarant\\restaurants.domain\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F501E8-2E01-483F-A3B9-686EF19DEA21}|Restaurants.Domain\\Restaurants.Domain.csproj|solutionrelative:restaurants.domain\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F501E8-2E01-483F-A3B9-686EF19DEA21}|Restaurants.Domain\\Restaurants.Domain.csproj|c:\\personal learning\\projects\\legend restuarant\\restaurants.domain\\entity\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F501E8-2E01-483F-A3B9-686EF19DEA21}|Restaurants.Domain\\Restaurants.Domain.csproj|solutionrelative:restaurants.domain\\entity\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Personal Learning\\Projects\\Legend Restuarant\\Restaurants.Domain\\Entity\\Dish.cs",
+              "RelativeDocumentMoniker": "Restaurants.Domain\\Entity\\Dish.cs",
+              "ToolTip": "C:\\Personal Learning\\Projects\\Legend Restuarant\\Restaurants.Domain\\Entity\\Dish.cs",
+              "RelativeToolTip": "Restaurants.Domain\\Entity\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:39:16.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Personal Learning\\Projects\\Legend Restuarant\\Restaurants.Domain\\Entity\\Address.cs",
+              "RelativeDocumentMoniker": "Restaurants.Domain\\Entity\\Address.cs",
+              "ToolTip": "C:\\Personal Learning\\Projects\\Legend Restuarant\\Restaurants.Domain\\Entity\\Address.cs",
+              "RelativeToolTip": "Restaurants.Domain\\Entity\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:37:05.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Personal Learning\\Projects\\Legend Restuarant\\Restaurants.Domain\\Entity\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Restaurants.Domain\\Entity\\Restaurant.cs",
+              "ToolTip": "C:\\Personal Learning\\Projects\\Legend Restuarant\\Restaurants.Domain\\Entity\\Restaurant.cs",
+              "RelativeToolTip": "Restaurants.Domain\\Entity\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:32:37.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
