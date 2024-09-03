@@ -1,0 +1,16 @@
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.deps.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.pdb
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\bin\Debug\net8.0\Restaurants.Domain.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\bin\Debug\net8.0\Restaurants.Domain.pdb
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.AssemblyReference.cache
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfoInputs.cache
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfo.cs
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.CoreCompileInputs.cache
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.sourcelink.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\Restaura.6AB96A7C.Up2Date
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\refint\Restaurants.Application.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.pdb
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.Application\obj\Debug\net8.0\ref\Restaurants.Application.dll

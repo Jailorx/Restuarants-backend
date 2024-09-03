@@ -23,3 +23,35 @@ C:\Users\bisht\OneDrive\Desktop\Legend Restuarant\Restaurants.API\obj\Debug\net8
 C:\Users\bisht\OneDrive\Desktop\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.pdb
 C:\Users\bisht\OneDrive\Desktop\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.genruntimeconfig.cache
 C:\Users\bisht\OneDrive\Desktop\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\ref\Restaurants.API.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\appsettings.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\Restaurants.API.exe
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\Restaurants.API.deps.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\Restaurants.API.runtimeconfig.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\Restaurants.API.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\Restaurants.API.pdb
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\Restaurants.Application.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\Restaurants.Domain.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\Restaurants.Application.pdb
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\bin\Debug\net8.0\Restaurants.Domain.pdb
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.csproj.AssemblyReference.cache
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.AssemblyInfoInputs.cache
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.AssemblyInfo.cs
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.csproj.CoreCompileInputs.cache
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.sourcelink.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\staticwebassets\msbuild.Restaurants.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Restaurants.API.props
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Restaurants.API.props
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Restaurants.API.props
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\scopedcss\bundle\Restaurants.API.styles.css
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaura.7AF479EB.Up2Date
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\refint\Restaurants.API.dll
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.pdb
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\Restaurants.API.genruntimeconfig.cache
+C:\Personal Learning\Projects\Legend Restuarant\Restaurants.API\obj\Debug\net8.0\ref\Restaurants.API.dll
